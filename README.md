@@ -1,2 +1,11 @@
-# ip-logger
-ip logger made with python 
+# ip-logger (!EDUCATIONAL PURPOSESONLY!)
+
+# DONT USE THIS APP ON ANYONE IT CAN BE A RISK
+
+![image](https://github.com/user-attachments/assets/8b0b8269-5f22-402c-a41a-7c77b95c5a92)
+
+# THIS DONT HAVE DATABASE OR SOMETHING DO IT YOURSELF
+# AND IF YOU USE THIS ON SOMEONE IT NOT WRITE IP AND OTHER THINGS ON YOUR COMPUTER NEED DATABASE
+
+- pip install request
+- pip install pystyle
